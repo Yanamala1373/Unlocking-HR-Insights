@@ -34,6 +34,7 @@ The project will employ statistical operations to derive meaningful metrics and 
 These visualizations will provide a clear and intuitive representation of the analyzed data, enabling HR professionals to quickly identify key insights and make data-driven decisions. The chosen algorithms and techniques are selected to provide a robust and adaptable framework for continuous updates and enhancements to the HR analytics process, ensuring that the insights derived remain relevant and actionable over time.
 
 1.4 Implementation
+
    1.4.1 Data Acquisition and Storage
       1.Data Import from Excel
           •	Method: Importing structured employee attendance data from multiple Excel sheets.
