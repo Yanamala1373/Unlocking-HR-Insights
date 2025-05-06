@@ -5,6 +5,7 @@ The methodology encompasses a comprehensive data lifecycle, starting with data c
 
 
 1.1	Purpose
+
 In today’s competitive business landscape, Human Resources (HR) departments are increasingly tasked with strategic decision-making that directly impacts organizational performance. Traditional, intuition-based approaches are being superseded by data-driven methodologies, enabling HR professionals to gain deeper insights into workforce dynamics and optimize human capital management. This project, "Unlocking HR Insights," aims to leverage the power of data analytics to transform raw employee attendance data into actionable intelligence, specifically focusing on patterns, trends, and key performance indicators related to attendance.
 
 The primary purpose of this project is to develop an interactive and insightful Power BI dashboard that enables HR Generalists to effectively analyze employee attendance data. By visualizing key metrics such as present percentages, sick leave rates, and WFH/WFO distributions, the project aims to equip HR with the tools necessary to:
